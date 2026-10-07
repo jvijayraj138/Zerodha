@@ -1,0 +1,47 @@
+button{
+    background-color: skyblue;
+    color: white;
+    padding: 10px 30px;
+    margin: 100px 50px;
+    border-radius: 10px;
+
+}
+body
+{
+    background-color: rgb(243, 240, 236);
+    color: white;
+}
+button:hover{
+    background-color: rgb(54, 15, 83);
+    color:white;
+}
+h2{
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 50px;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
+#logo{
+    height: 50px;
+    width: 125px;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+}
+nav{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+.p1{
+    color: violet;
+    background-color: pink;
+}
+.p2{
+    color: red;
+    background-color: pink;
+}
